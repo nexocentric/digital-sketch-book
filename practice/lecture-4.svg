@@ -52,45 +52,51 @@
      inkscape:label="レイヤー 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#c87137"
+       id="rect3350"
+       width="135.10896"
+       height="668.03876"
+       x="197.65942"
+       y="384.32346" />
+    <ellipse
+       style="fill:#008000"
+       id="path3352"
+       cx="253.95477"
+       cy="423.10477"
+       rx="256.45682"
+       ry="253.9548" />
     <g
-       id="g3354"
-       transform="translate(90.072639,12.510089)">
-      <g
-         id="g3385"
-         transform="translate(-180.14528,10.008071)">
-        <rect
-           style="fill:#c87137"
-           id="rect3350"
-           width="135.10896"
-           height="668.03876"
-           x="300.24216"
-           y="359.30328" />
-        <ellipse
-           style="fill:#008000"
-           id="path3352"
-           cx="374.05164"
-           cy="321.77304"
-           rx="281.47699"
-           ry="297.74011" />
-      </g>
-    </g>
-    <g
-       id="g3381"
-       transform="translate(940.75867,457.86925)">
+       id="g3406"
+       transform="translate(386,-2)">
       <rect
-         y="290.4978"
-         x="-451.61414"
-         height="307.7482"
+         style="fill:#aa4400"
+         id="rect3396"
          width="135.10896"
-         id="rect3350-8"
-         style="fill:#c87137" />
+         height="427.84506"
+         x="330.26636"
+         y="627.01917" />
       <ellipse
-         ry="158.87813"
-         rx="268.96689"
-         cy="229.19838"
-         cx="-365.29459"
-         id="path3352-7"
-         style="fill:#008000" />
+         style="fill:#00ff00"
+         id="ellipse3398"
+         cx="415.3349"
+         cy="594.49292"
+         rx="182.64729"
+         ry="185.14932" />
     </g>
+    <rect
+       style="fill:#c87137"
+       id="rect3350-8"
+       width="135.10896"
+       height="307.7482"
+       x="476.63443"
+       y="750.86908" />
+    <ellipse
+       style="fill:#008000"
+       id="path3352-7"
+       cx="562.95404"
+       cy="689.56964"
+       rx="268.96689"
+       ry="158.87813" />
   </g>
 </svg>
