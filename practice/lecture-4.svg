@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.39967742"
-     inkscape:cx="136.27355"
-     inkscape:cy="509.42779"
+     inkscape:cx="157.5407"
+     inkscape:cy="488.16064"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -52,50 +52,45 @@
      inkscape:label="レイヤー 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:#0000ff;fill-rule:evenodd;stroke:#000000;stroke-width:1.00865412px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="rect3336"
-       width="542.76892"
-       height="236.74748"
-       x="198.49776"
-       y="-75.442535"
-       transform="matrix(0.97710737,0.21274678,-0.02925965,0.99957184,0,0)" />
-    <rect
-       style="fill:#ff5555;fill-rule:evenodd;stroke:#000000;stroke-width:0.74975425px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="rect3338"
-       width="403.0751"
-       height="95.326912"
-       x="-578.09125"
-       y="204.05307" />
-    <rect
-       style="fill:#241c1c"
-       id="rect3340"
-       width="678.04681"
-       height="225.18159"
-       x="460.37128"
-       y="531.9425"
-       ry="65.05246" />
-    <rect
-       style="fill:#00ff00"
-       id="rect3342"
-       width="820.6618"
-       height="395.31882"
-       x="-640.51654"
-       y="614.50909"
-       ry="65.052498"
-       rx="0" />
-    <circle
-       style="fill:#d40000"
-       id="path3344"
-       cx="442.23163"
-       cy="879.09747"
-       r="81.941078" />
-    <circle
-       style="fill:#d40000"
-       id="path3346"
-       cx="443.96698"
-       cy="130.64853"
-       r="74.435028"
-       transform="matrix(0.58637306,0.81004113,-0.81004113,0.58637306,0,0)" />
+    <g
+       id="g3354"
+       transform="translate(90.072639,12.510089)">
+      <g
+         id="g3385"
+         transform="translate(-180.14528,10.008071)">
+        <rect
+           style="fill:#c87137"
+           id="rect3350"
+           width="135.10896"
+           height="668.03876"
+           x="300.24216"
+           y="359.30328" />
+        <ellipse
+           style="fill:#008000"
+           id="path3352"
+           cx="374.05164"
+           cy="321.77304"
+           rx="281.47699"
+           ry="297.74011" />
+      </g>
+    </g>
+    <g
+       id="g3381"
+       transform="translate(940.75867,457.86925)">
+      <rect
+         y="290.4978"
+         x="-451.61414"
+         height="307.7482"
+         width="135.10896"
+         id="rect3350-8"
+         style="fill:#c87137" />
+      <ellipse
+         ry="158.87813"
+         rx="268.96689"
+         cy="229.19838"
+         cx="-365.29459"
+         id="path3352-7"
+         style="fill:#008000" />
+    </g>
   </g>
 </svg>
